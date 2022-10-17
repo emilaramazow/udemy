@@ -1,2 +1,2 @@
 # udemy
-This repository contains Java algorithms and Spring framework courses from Udemy.
+This repository contains Java algorithms, Spring framework courses and Projects from Udemy.
